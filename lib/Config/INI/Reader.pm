@@ -10,13 +10,13 @@ Config::INI::Reader - a subclassable .ini-file parser
 
 =head1 VERSION
 
-version 0.003
+version 0.004
 
- $Id$
+ $Id: /my/cs/projects/Config-INI-Reader/trunk/lib/Config/INI/Reader.pm 31646 2007-05-13T00:33:50.864885Z rjbs  $
 
 =cut
 
-our $VERSION = '0.003';
+our $VERSION = '0.004';
 
 =head1 SYNOPSIS
 
